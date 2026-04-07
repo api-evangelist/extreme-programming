@@ -9,8 +9,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Extreme Programming
   - Agile
+  - Extreme Programming
   - Software Development
   - XP
 url: http://www.extremeprogramming.org/
