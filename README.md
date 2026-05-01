@@ -5,18 +5,22 @@ Extreme Programming (XP) is an agile software development methodology that aims 
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Extreme Programming, Agile, Software Development, XP
+ - Agile, Extreme Programming, Software Development, XP
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-03-16
+
+## APIs
+
+No public APIs are documented for this topic. Extreme Programming is a software development methodology rather than a set of APIs, and this index curates references for the practice.
 
 ## Common Properties
 
